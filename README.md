@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top UI/UX Designers Showcase](
+                https://codedwright.github.io/top-ui-ux-showcase/
+            )
+- [Top Font Resources](
+                https://codedwright.github.io/top-font-resources/
+            )
 <!-- BLOG-POST-LIST:END -->
