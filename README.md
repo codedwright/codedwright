@@ -8,10 +8,10 @@
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Top UI/UX Designers Showcase](
-                https://codedwright.github.io/top-ui-ux-showcase/
+                https://codedwright.github.io/blog/feed.xml
             )
 - [Top Font Resources](
-                https://codedwright.github.io/top-font-resources/
+                https://codedwright.github.io/blog/feed.xml
             )
 <!-- BLOG-POST-LIST:END -->
 
