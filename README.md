@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-<!--
-**codedwright/codedwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a secret project 😉
+- 🌱 I’m currently learning Laravel, Vue, and TypeScript
+- 📫 How to reach me: [joseph@codedwright.com](mailto:joseph@codedwright.com) [@codedwright](https://www.instagram.com/codedwright/)
+- ⚡ Fun fact: I ❤️ Anime
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Top UI/UX Designers Showcase](
                 https://codedwright.github.io/top-ui-ux-showcase/
