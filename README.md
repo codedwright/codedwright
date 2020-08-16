@@ -7,12 +7,8 @@
 
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top UI/UX Designers Showcase](
-                https://codedwright.github.io/blog/top-ui-ux-showcase/
-            )
-- [Top Font Resources](
-                https://codedwright.github.io/blog/top-font-resources/
-            )
+- [Top UI/UX Designers Showcase](https://codedwright.github.io/blog/top-ui-ux-showcase/)
+- [Top Font Resources](https://codedwright.github.io/blog/top-font-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🤓 Summary
