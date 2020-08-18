@@ -7,6 +7,8 @@
 
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux SFP Setup](https://codedwright.github.io/blog/linux-sfp-setup/)
+- [Linux Commands](https://codedwright.github.io/blog/linux-commands/)
 - [Adding Ubuntu/Linux/Bash to Windows 10](https://codedwright.github.io/blog/windows-subsystem-for-linux/)
 - [Top UI/UX Designers Showcase](https://codedwright.github.io/blog/top-ui-ux-showcase/)
 - [Top Font Resources](https://codedwright.github.io/blog/top-font-resources/)
