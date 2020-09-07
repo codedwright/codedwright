@@ -12,6 +12,8 @@
 - [Laravel Filters](https://codedwright.github.io/blog/laravel-filters/)
 - [Wordpress Setup](https://codedwright.github.io/blog/wordpress/)
 - [Virtualbox &amp; Vagrant](https://codedwright.github.io/blog/virtualbox-vagrant/)
+- [Windows Terminal Installation](https://codedwright.github.io/blog/windows-terminal/)
+- [Linux Commands](https://codedwright.github.io/blog/linux-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🤓 Summary
