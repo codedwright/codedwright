@@ -24,13 +24,13 @@
 ---
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel reCAPTCHA](https://codedwright.github.io/blog/laravel-field-order/)
+- [Foundation JS](https://codedwright.github.io/blog/foundation/)
+- [Brand Level Applications](https://codedwright.github.io/blog/brand-apps/)
+- [Laravel Field OrderBy Value](https://codedwright.github.io/blog/laravel-field-order/)
 - [Laravel reCAPTCHA](https://codedwright.github.io/blog/laravel-recaptcha/)
 - [Laravel Filters](https://codedwright.github.io/blog/laravel-filters/)
 - [Wordpress Setup](https://codedwright.github.io/blog/wordpress/)
 - [Virtualbox &amp; Vagrant](https://codedwright.github.io/blog/virtualbox-vagrant/)
-- [Windows Terminal Installation](https://codedwright.github.io/blog/windows-terminal/)
-- [Linux Commands](https://codedwright.github.io/blog/linux-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
