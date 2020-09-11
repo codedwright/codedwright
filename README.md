@@ -24,13 +24,13 @@
 ---
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Foundation JS](https://codedwright.github.io/blog/foundation/)
-- [Brand Level Applications](https://codedwright.github.io/blog/brand-apps/)
-- [Laravel Field OrderBy Value](https://codedwright.github.io/blog/laravel-field-order/)
-- [Laravel reCAPTCHA](https://codedwright.github.io/blog/laravel-recaptcha/)
-- [Laravel Filters](https://codedwright.github.io/blog/laravel-filters/)
-- [Wordpress Setup](https://codedwright.github.io/blog/wordpress/)
-- [Virtualbox &amp; Vagrant](https://codedwright.github.io/blog/virtualbox-vagrant/)
+- [Foundation JS](https://blog.codedwright.com/foundation/)
+- [Brand Level Applications](https://blog.codedwright.com/brand-apps/)
+- [Laravel Field OrderBy Value](https://blog.codedwright.com/laravel-field-order/)
+- [Laravel reCAPTCHA](https://blog.codedwright.com/laravel-recaptcha/)
+- [Laravel Filters](https://blog.codedwright.com/laravel-filters/)
+- [Wordpress Setup](https://blog.codedwright.com/wordpress/)
+- [Virtualbox &amp; Vagrant](https://blog.codedwright.com/virtualbox-vagrant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
