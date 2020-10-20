@@ -25,12 +25,12 @@
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Custom List Style](https://blog.codedwright.com/custom-list-style/)
-- [SFP New Hire](https://blog.codedwright.com/sfp-new-hire/)
-- [SFP Asana Workflow](https://blog.codedwright.com/sfp-asana-workflow/)
 - [Laravel Vue2 SPA](https://blog.codedwright.com/laravel-vue-spa/)
 - [Laravel &amp; PHP Testing](https://blog.codedwright.com/laravel-testing/)
-- [SFP Enhanced Fujita](https://blog.codedwright.com/sfp-enhanced-fujita/)
 - [WYSIWYG For Frontend](https://blog.codedwright.com/wysiwyg-frontend/)
+- [Foundation JS](https://blog.codedwright.com/foundation/)
+- [Brand Level Applications](https://blog.codedwright.com/brand-apps/)
+- [Laravel Field OrderBy Value](https://blog.codedwright.com/laravel-field-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
