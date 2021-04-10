@@ -30,7 +30,7 @@
 - [Laravel Field OrderBy Value](https://codedwright.com/blog/laravel-field-order)
 - [Laravel Filters](https://codedwright.com/blog/laravel-filters)
 - [Laravel reCAPTCHA](https://codedwright.com/blog/laravel-recaptcha)
-- [Laravel & PHP Testing](https://codedwright.com/blog/laravel-testing)
+- [Laravel Vue2 SPA](https://codedwright.com/blog/laravel-vue-spa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
