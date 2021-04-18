@@ -24,13 +24,13 @@
 ---
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Brand Level Applications](https://codedwright.com/blog/brand-apps)
 - [Custom List Style](https://codedwright.com/blog/custom-list-style)
 - [Foundation JS](https://codedwright.com/blog/foundation)
 - [Laravel Field OrderBy Value](https://codedwright.com/blog/laravel-field-order)
 - [Laravel Filters](https://codedwright.com/blog/laravel-filters)
 - [Laravel reCAPTCHA](https://codedwright.com/blog/laravel-recaptcha)
 - [Laravel & PHP Testing](https://codedwright.com/blog/laravel-testing)
+- [Laravel Vue2 SPA](https://codedwright.com/blog/laravel-vue-spa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
