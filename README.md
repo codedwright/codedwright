@@ -32,9 +32,3 @@
 - [Laravel reCAPTCHA](https://codedwright.com/blog/laravel-recaptcha)
 - [Laravel &amp; PHP Testing](https://codedwright.com/blog/laravel-testing)
 <!-- BLOG-POST-LIST:END -->
-
----
-#### 🤓 Summary
-
-![codedwright's github stats](https://github-readme-stats.vercel.app/api?username=codedwright&hide=stars,prs,contribs,issues,contrib&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedwright&&layout=compact&hide=hack)
